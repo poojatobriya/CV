@@ -226,13 +226,13 @@ span{
 
 @keyframes words{
     0%, 40%{
-        content: "Web Developer";
+        content: "Educator and Researcher";
     }
     41%, 70%{
-        content: "Designer";
+        content: "Confident and Curious";
     }
     71%, 100%{
-        content: "Developer";
+        content: "Compassionate abd Disciplined";
     }
     
 }
@@ -262,4 +262,5 @@ span{
         margin-top: 4rem;
     }
 }
+
 
