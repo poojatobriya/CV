@@ -226,13 +226,13 @@ span{
 
 @keyframes words{
     0%, 40%{
-        content: "Educator and Researcher";
+        content: "Educator ";
     }
     41%, 70%{
-        content: "Confident and Curious";
+        content: "Researcher";
     }
     71%, 100%{
-        content: "Compassionate abd Disciplined";
+        content: "Confident";
     }
     
 }
@@ -262,5 +262,6 @@ span{
         margin-top: 4rem;
     }
 }
+
 
 
